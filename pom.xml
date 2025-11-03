@@ -7,7 +7,7 @@
 
   <groupId>com.bankingmanagementwithmvc</groupId>
   <artifactId>banking-app</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>banking-app</name>
 
