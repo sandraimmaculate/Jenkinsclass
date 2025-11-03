@@ -50,11 +50,11 @@
   <!-- ✨ Add this section -->
   <distributionManagement>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>maven-snapshots</id>
       <url>http://16.171.145.57:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>nexus</id>
+      <id>maven-snapshots</id>
       <url>http://16.171.145.57:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
